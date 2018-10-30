@@ -2,9 +2,10 @@
 ## Asian --> Thai
 ---
 Select a restaurant:
-<<<<<<< HEAD
+
 ## [Bay Thai](http://www.brooklynbaythai.com/)
 ## [Glow Thai](http://glowthai.com/)
+
 ---
 Back to Asian  
 [Start Over](../asian.md)
